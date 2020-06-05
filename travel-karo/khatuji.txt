@@ -1,0 +1,19 @@
+<html><head> <link type="image/PNG" rel="icon" href="C:\Users\hp\Pictures\Screenshots\Screenshot (65).PNG"/><title> TravelKaro.com </title> <h1 align="center"> <font face="Jokerman" size="8"> Travel<sub>karo</sub>.com </font> </h1>   </head>
+
+<body background="C:\Users\hp\Pictures\Saved Pictures\cap.JPG"/><center><h1> <font size="7"> KhatuShyamji </font></center><br>
+
+<p><font style="calibri" size="5"> Khatushyamji or Khatu is a village of religious importance in Sikar District of Rajasthan in India. It is home to a famous temple of Shyam Baba. It is one of the most sacred temples in India.</font></p>
+
+<img src="C:\Users\hp\Pictures\Saved Pictures\temple1.jpg"/><br><font style="times new roman" size="5"> Khatuji Temple </font> </img>
+
+<center><img src="C:\Users\hp\Pictures\Saved Pictures\Khatuji2.jpg"/><br><font style="times new roman" size="5"> Khatuji Temple </font> </img></center>
+
+<img src="C:\Users\hp\Pictures\Saved Pictures\khatuji1.jpg" height="30%" width="30%"/><br><font style="times new roman" size="5"> KhatuShyamji,Rajasthan</font> </img>
+
+<center><h2><font size="5"/> Hotels </center>
+
+<ul> <li> <img src="C:\Users\hp\Pictures\Saved Pictures\natraj1.jpg" height="30%" width="30%"/><br><b><font style="times new roman" size="5"> Hotel Natraj: </font> </b></img>situated in Sikar</li>
+
+<li><img src="C:\Users\hp\Pictures\Saved Pictures\muskan1.jpg" height="30%" width="30%"/><br><b><font style="times new roman" size="5"> Hotel Muskan Palace: </font> </b></img>1.7 km from khatuji temple</li>
+
+<li><img src="C:\Users\hp\Pictures\Saved Pictures\fabkhatuji.jpg" height="30%" width="30%"/><br><b><font style="times new roman" size="5"> Fab Hotel Dior Jal Mahal: </font> </b></img>6.7 km from khatuji temple. </li></body> </html>
