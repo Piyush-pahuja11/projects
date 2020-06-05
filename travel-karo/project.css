@@ -1,0 +1,168 @@
+.heading{
+font-family:eater;
+font-size:55;
+text-shadow:4px 3px red}
+.all{
+font-family:Abril Fatface;
+font-size:70;
+text-align:center;
+text-shadow:4px 3px red}
+
+.bottom{
+background-image:url("https://media.tenor.com/images/c53bc7985bd46061567bfc9ea359d8d0/tenor.gif");;
+color:white;
+text-align:center;
+height:40%;
+width:100%}
+
+body{
+ background-image: linear-gradient(to bottom right,lightblue,#F5B7B1  );
+
+background-size:100% 100%;
+background-attachment:fixed
+}
+
+
+ul{font-size:50;
+list-style-type:square;
+}
+a:not(.a,.b){
+text-decoration:none;
+text-align:center;
+font-size:40;}
+a:not(.a,.b):link{color:black;}
+a:not(.a,.b):visited{color:yellow}
+a:not(.a,.b):hover{color:green;}
+a:not(.a,.b):active{color:white;}
+p::first-letter{font-size:60}
+p{text-indent:100;
+font-family: 'Flamenco', cursive;
+font-size:30;
+text-align:justify;
+animation:a 2s infinite alternate;
+border:20px groove lightgreen}
+
+text-align:justify}
+form{
+animation:a 2s infinite alternate;}
+.col-1-3,.col-2-3,.col-3-3{
+width:30%;
+display:inline-block;
+text-align:center;
+font-size:45px;	
+flex-direction:column;
+}
+a{
+text-decoration:none;
+color:#fff;
+}
+
+
+.card {
+	font-weight: bold;
+	display: inline-block;
+	display:fixed;
+	margin:60px 0;
+	margin-left:100px;	
+	padding:65px 0px;
+	width:400px;
+	position: relative;
+	background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIsy4VeCdJWg2FdTs0LAxoy1c-jSgPKkeHLbN19brzpVm_gEug");
+	background-size:100% 120%;
+	background-repeat:no-repeat;
+	border:solid 1px groove;
+	border-radius:25px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.card::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;	
+	right: 0;
+	bottom: 0;
+	background:darkblue;
+	transform: scale(1, 0.1);
+	transform-origin: bottom left;
+	animation: link-hover-out .5s;
+}
+.card:hover::before {
+	animation: link-hover .5s ease-in forwards;
+	border-bottom:solid 1px groove;
+	border-radius:23px;
+	}
+.card-text {
+	position: relative;
+	color:white;
+	transition:.05s;
+}
+.card:hover .card-text {
+	transition-delay: .5s;
+	color:white;
+}
+@keyframes link-hover {
+    25% {
+		transform: scale(0.05,0.01);
+	}
+	50% {
+		transform: scale(0.05,1);
+	}	
+	75% {
+		transform: scale(0.4,1);
+	}
+	100% {
+		
+		transform: scale(1,1);
+	}
+}
+@keyframes link-hover-out {
+	from {
+		transform: scale(1,1);
+	}
+}
+#mainpage a {
+
+    position: absolute; /* Position them relative to the browser window */
+
+    left: -80px; /* Position them outside of the screen */
+
+    transition: 0.3s; /* Add transition on hover */
+
+    padding: 15px; /* 15px padding */
+
+    width: 170px; /* Set a specific width */
+
+    text-decoration: none; /* Remove underline */
+
+    font-size: 20px; /* Increase font size */
+
+    color: white; /* White text color */
+
+    border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right side */
+
+    position:fixed;
+
+}
+
+ 
+
+#mySidenav a:hover {
+
+    left: 0; /* On mouse-over, make the elements appear as they should */
+
+}
+
+ 
+
+/* The about link: 20px from the top with a green background */
+
+#back {
+
+    top: 20px;
+
+    background-color:green;
+
+ 
+
+} 

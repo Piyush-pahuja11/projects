@@ -1,0 +1,11 @@
+{
+  "name": "mywebserver",
+  "version": "1.0.0",
+  "description": "a small webserver customized",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "piyush",
+  "license": "ISC"
+}

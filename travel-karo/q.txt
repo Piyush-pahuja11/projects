@@ -1,0 +1,15 @@
+<html><head><script>
+function f()
+{
+x=document.getElementsByTagName("p");
+{
+for(i=0;i<x.length;i++)
+{
+x[i].style.textDecoration="underline";
+}
+}
+
+}</script><body>
+<p>zxbhkxjk</p><h1>waxghxahs</h1>
+<p>zxbhkxjk</p><p>zxbhkxjk</p><p>zxbhkxjk</p><p>zxbhkxjk</p>
+aaa<input type="button" onClick=f()>
